@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @omowhunmmy
-- 👀 I’m 
+- 👋 Hi, I’m 
 - 🌱 I’m 
 - 💞️ I’m 
-- 📫 How to reach me i
+- 📫 How to reach me 
 
 <!---
 omowhunmmy/omowhunmmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
